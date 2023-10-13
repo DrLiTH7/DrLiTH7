@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente sou estagiário na Plan Internacional;<br>Cursando Ciência da Computação;<br>Estudando Python e Java Script;<br>E sempre gosto de aprende coisas novas e que me despertem a curiosidade.<br>
+Atualmente sou estagiário na Plan Internacional;<br>Cursando Ciência da Computação;<br>Estudando Python e Java Script;<br>E sempre gosto de aprender coisas novas e que me despertem a curiosidade.<br>
 
 
 ## 🌐 Socials:
